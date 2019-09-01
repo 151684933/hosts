@@ -248,7 +248,7 @@
 127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 t.medialytics.com
 
-#百度广告服务
+# 百度广告服务
 127.0.0.1 afd.baidu.com
 127.0.0.1 als.baidu.com
 127.0.0.1 api.share.baidu.com
@@ -296,7 +296,7 @@
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 hmma.baidu.com
 
-#pkg=qq.com;腾讯广告服务
+# pkg=qq.com;腾讯广告服务
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adping.qq.com
@@ -341,7 +341,7 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 win.gdt.qq.com
 
-#阿里广告服务
+# 阿里广告服务
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 file.ipinyou.com.cn
@@ -388,7 +388,7 @@
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adash.m.taobao.com
 
-#广告联盟
+# 广告联盟
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
@@ -1093,7 +1093,7 @@
 127.0.0.1 uop.umeng.com
 
 
-#Dium Patcher block Ads start#
+# Dium Patcher block Ads start#
 127.0.0.1 localhost
 127.0.0.1 www.jsuuu.com
 127.0.0.1 1.ytelc.com
@@ -1282,4 +1282,264 @@
 127.0.0.1 adms.hawsing.com.tw
 127.0.0.1 www.hawsing.com.tw
 
+# 其他广告 
+127.0.0.1 juicyads.com
+127.0.0.1 ads.wakamoment.tk
+127.0.0.1 adsdk.dmzj.com
 
+# iqiyi & pps
+127.0.0.1 a.ckm.iqiyi.com
+127.0.0.1 ad.m.iqiyi.com
+127.0.0.1 afp.iqiyi.com
+127.0.0.1 androidgo.duapp.com
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 c.uaa.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 cm.passport.iqiyi.com
+127.0.0.1 count.game.pps.tv
+127.0.0.1 cupid.iqiyi.com
+127.0.0.1 emoticon.sns.iqiyi.com
+127.0.0.1 game.pps.tv
+127.0.0.1 gamecenter.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.71.am
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+127.0.0.1 msga.71.am
+127.0.0.1 msga.cupid.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 nl.rcd.iqiyi.com
+127.0.0.1 notice.iqiyi.com
+127.0.0.1 noxagile.duapp.com
+127.0.0.1 paopao.iqiyi.com
+127.0.0.1 policy.video.iqiyi.com
+127.0.0.1 qosp.msg.71.am
+127.0.0.1 static.g.iqiyi.com
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 store.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 tracker.sns.iqiyi.com
+127.0.0.1 yuedu.iqiyi.com
+127.0.0.1 https?://.+/videos/other/.+
+127.0.0.1 https?://paopao\w?.qiyipic.com
+127.0.0.1 101.227.97.240/32
+127.0.0.1 101.227.200.11/32
+127.0.0.1 101.227.200.28/32
+127.0.0.1 124.192.153.42/32
+
+# Youku & Tudou
+127.0.0.1 actives.youku.com
+127.0.0.1 ad.api.3g.tudou.com
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 ad.mobile.youku.com
+127.0.0.1 a-dxk.play.api.3g.youku.com
+127.0.0.1 b.smartvideo.youku.com
+127.0.0.1 c.yes.youku.com
+127.0.0.1 das.api.youku.com
+127.0.0.1 das.mobile.youku.com
+127.0.0.1 dev-push.m.youku.com
+127.0.0.1 dl.g.youku.com
+127.0.0.1 dmapp.youku.com
+127.0.0.1 gamex.mobile.youku.com
+127.0.0.1 hudong.pl.youku.com
+127.0.0.1 huodong.pl.youku.com
+127.0.0.1 huodong.vip.youku.com
+127.0.0.1 hz.youku.com
+127.0.0.1 iyes.youku.com
+127.0.0.1 l.ykimg.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 m.yes.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 msg.youku.com
+127.0.0.1 myes.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 passport-log.youku.com
+127.0.0.1 p-log.ykimg.com
+127.0.0.1 push.m.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 s.p.youku.com
+127.0.0.1 sdk.api.gamex.mobile.youku.com
+127.0.0.1 sdk.m.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 store.tv.api.3g.youku.com
+127.0.0.1 store.xl.api.3g.youku.com
+127.0.0.1 tdrec.youku.com
+127.0.0.1 test.ott.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 v.l.youku.com
+127.0.0.1 val.api.youku.com
+127.0.0.1 wan.youku.com
+127.0.0.1 ykatr.youku.com
+127.0.0.1 ykrec.youku.com
+127.0.0.1 117.177.248.17/32
+127.0.0.1 117.177.248.41/32
+127.0.0.1 223.87.176.139/32
+127.0.0.1 223.87.176.176/32
+127.0.0.1 223.87.177.180/32
+127.0.0.1 223.87.177.182/32
+127.0.0.1 223.87.177.184/32
+127.0.0.1 223.87.177.43/32
+127.0.0.1 223.87.177.47/32
+127.0.0.1 223.87.177.80/32
+127.0.0.1 223.87.182.101/32
+127.0.0.1 223.87.182.102/32
+127.0.0.1 223.87.182.11/32
+127.0.0.1 223.87.182.52/32
+127.0.0.1 https?://.+.atm.youku.com
+
+# MGTV
+127.0.0.1 ads-api.videojj.com
+127.0.0.1 cdn.cmop.mgtv.com
+127.0.0.1 click.hunantv.com
+127.0.0.1 cmop.mgtv.com
+127.0.0.1 cytron.videojj.com
+127.0.0.1 cytroncdn.videojj.com
+127.0.0.1 da.hunantv.com
+127.0.0.1 da.mgtv.com
+127.0.0.1 imgaliyun.da.mgtv.com
+127.0.0.1 imgaliyun.res.mgtv.com
+127.0.0.1 m2.da.mgtv.com
+127.0.0.1 me.videojj.com
+127.0.0.1 mobaliyun.res.mgtv.com
+127.0.0.1 mobile.da.mgtv.com
+127.0.0.1 mobile2.da.mgtv.com
+127.0.0.1 mp4.res.hunantv.com
+127.0.0.1 pc.da.mgtv.com
+127.0.0.1 pc1.da.mgtv.com
+127.0.0.1 pcvideoaliyun.titan.mgtv.com
+127.0.0.1 pcvideoyd.titan.mgtv.com
+127.0.0.1 pcweb.v1.mgtv.com
+127.0.0.1 plat.videojj.com
+127.0.0.1 py.da.mgtv.com
+127.0.0.1 res.hunantv.com
+127.0.0.1 store.videojj.com
+127.0.0.1 v2.da.mgtv.com
+127.0.0.1 va.videojj.com
+127.0.0.1 videojj.com
+127.0.0.1 web.da.mgtv.com
+127.0.0.1 x.da.hunantv.com
+127.0.0.1 x.da.mgtv.com
+127.0.0.1 x1.da.hunantv.com
+127.0.0.1 y.da.hunantv.com
+127.0.0.1 y.da.mgtv.com
+
+# Letv
+127.0.0.1 1.letvlive.com
+127.0.0.1 2.letvlive.com
+127.0.0.1 ads1.lfengmobile.com
+127.0.0.1 api.game.letvstore.com
+127.0.0.1 api.push.le.com
+127.0.0.1 ark.letv.com
+127.0.0.1 cdn.zampdsp.com
+127.0.0.1 cm.fancyapi.com
+127.0.0.1 cn.api.push.le.com
+127.0.0.1 dc.letv.com
+127.0.0.1 fz.letv.com
+127.0.0.1 g3.letv.com
+127.0.0.1 minisite.letv.com
+127.0.0.1 msg.m.letv.com
+127.0.0.1 n.mark.letv.com
+127.0.0.1 pro.hoye.letv.com
+127.0.0.1 pro.letv.com
+127.0.0.1 s.zampdsp.com
+127.0.0.1 stat.letv.com
+127.0.0.1 static.app.m.letv.com
+127.0.0.1 webp2p.letv.com
+127.0.0.1 zamplus.com
+
+# Youtube
+127.0.0.1 azabu-u.ac.jp
+127.0.0.1 couchcoaster.jp
+127.0.0.1 delivery.dmkt-sp.jp
+127.0.0.1 ehg-youtube.hitbox.com
+127.0.0.1 m-78.jp
+127.0.0.1 nichibenren.or.jp
+127.0.0.1 nicorette.co.kr
+
+# Sohu
+127.0.0.1 adnet.sohu.com
+127.0.0.1 aty.sohu.com
+127.0.0.1 data.vod.itc.cn
+127.0.0.1 epro.sogou.com
+127.0.0.1 go.sohu.com
+127.0.0.1 golden1.sogou.com
+127.0.0.1 imp.optaim.com
+127.0.0.1 inte.sogou.com
+127.0.0.1 inte.sogoucdn.com
+127.0.0.1 lu.sogoucdn.com
+127.0.0.1 theta.sogoucdn.com
+127.0.0.1 uranus.sogou.com
+
+# PPTV
+127.0.0.1 afp.pplive.com
+127.0.0.1 app.aplus.pptv.com
+127.0.0.1 as.aplus.pptv.com
+127.0.0.1 asimgs.pplive.cn
+127.0.0.1 de.as.pptv.com
+127.0.0.1 jp.as.pptv.com
+127.0.0.1 pp2.pptv.com
+127.0.0.1 stat.pptv.com
+127.0.0.1 static.g.pptv.com
+127.0.0.1 https?://img\w.g.pptv.com
+
+# Site
+127.0.0.1 deliver.ifeng.com
+127.0.0.1 hxjs.tool.hexun.com
+127.0.0.1 hxsame.hexun.com
+127.0.0.1 itv.hexun.com
+127.0.0.1 utrack.hexun.com
+127.0.0.1 https?://h\w{2}.hxsame.hexun.com
+
+# Vod
+127.0.0.1 ad.cmvideo.cn
+127.0.0.1 atm.cp31.ott.cibntv.net
+127.0.0.1 aty.cp45.ott.cibntv.net
+127.0.0.1 cpm.cm.kankan.com
+127.0.0.1 float.kankan.com
+127.0.0.1 houyi.baofeng.net
+127.0.0.1 iadctest.qwapi.com
+
+# Other
+127.0.0.1 ad.video.51togic.com
+127.0.0.1 biz5.kankan.com
+127.0.0.1 c.algovid.com
+127.0.0.1 cms.laifeng.com
+127.0.0.1 da.mmarket.com
+127.0.0.1 dotcounter.douyutv.com
+127.0.0.1 g.uusee.com
+127.0.0.1 gcdn.2mdn.net
+127.0.0.1 gentags.net
+127.0.0.1 gg.jtertp.com
+127.0.0.1 gug.ku6cdn.com
+127.0.0.1 hp.smiler-ad.com
+127.0.0.1 kooyum.com
+127.0.0.1 ld.kuaigames.com
+127.0.0.1 logstat.t.sfht.com
+127.0.0.1 match.rtbidder.net
+127.0.0.1 mixer.cupid.ptqy.gitv.tv
+127.0.0.1 msg.c002.ottcn.com
+127.0.0.1 msga.ptqy.gitv.tv
+127.0.0.1 njwxh.com
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 n-st.vip.com
+127.0.0.1 pb.bi.gitv.tv
+127.0.0.1 pop.uusee.com
+127.0.0.1 rd.kuaigames.com
+127.0.0.1 shizen-no-megumi.com
+127.0.0.1 shrek.6.cn
+127.0.0.1 simba.6.cn
+127.0.0.1 st.vq.ku6.cn
+127.0.0.1 statcounter.com
+127.0.0.1 static.duoshuo.com
+127.0.0.1 static.ku6.com
+127.0.0.1 static8.pmadx.com
+127.0.0.1 store.ptqy.gitv.tv
+127.0.0.1 t7z.cupid.ptqy.gitv.tv
+127.0.0.1 traffic.uusee.com
+127.0.0.1 union.6.cn
+127.0.0.1 wa.gtimg.com
+127.0.0.1 bfshan.cn
